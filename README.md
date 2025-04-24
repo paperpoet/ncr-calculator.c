@@ -23,7 +23,8 @@ This C program calculates combinations (nCr) using the factorial formula:
    (5-2)! = 6
    5C2 = 10
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+   ```
+   This project is licensed under the MIT License - see the LICENSE file for details.
  
 
 
