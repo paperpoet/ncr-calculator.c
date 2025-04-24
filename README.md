@@ -15,10 +15,11 @@ This C program calculates combinations (nCr) using the factorial formula:
   ./ncr
 ### Example of Program Output
 Once you run the program, it will ask for two numbers n and r. Here’s an example:
-Enter N: 5
-Enter R: 2
 
-5! = 120
-2! = 2
-(5 - 2)! = 6
-5C2 = 10
+   Enter N: 5
+   Enter R: 2
+
+   5! = 120
+   2! = 2
+   (5 - 2)! = 6
+   5C2 = 10
