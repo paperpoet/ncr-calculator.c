@@ -11,4 +11,5 @@ This C program calculates combinations (nCr) using the factorial formula:
    ```bash
    gcc ncr.c -o ncr
 2. **Run the program**:
+   ```bash
    ./ncr
